@@ -37,3 +37,10 @@
 ### Connection subclasses of websockets
 1. Client
 2. Server 
+
+### Images
+
+![image1](desktop/imgs/Capture.PNG)
+![image1](desktop/imgs/Capture1.PNG)
+![image1](desktop/imgs/Capture2.PNG)
+![image1](desktop/imgs/Capture3.PNG)
