@@ -1,0 +1,64 @@
+## Features
+- **Sigin**
+    - Sign Up
+    - Sign In
+    - Sign Out
+- **Editing**
+    - Edit Channel Profile
+    - Edit User Account
+    - Disable User Account
+    - Delete User Account
+    - Delete Channel
+    - Edit Channel Permission
+- **Chatting**
+    - Send Chat
+    - Send Chat Delivered
+    - Send Chat Seen
+    - Reply to chat
+    - Set Pinned Chat
+    - Remove Pinned Chat
+    - Delete Chat
+- **Requesting**
+    - Request Channel Details
+    - Exit Channel
+    - Report Channel
+    - Create New Channel
+    - Join Channel
+    - Leave Channel
+    - Search Channel
+    - Add Member to Channel
+    - Delete Member from Channel
+    - Ban Member from Channel
+- 
+- 
+- 
+- 
+
+
+## Actions
+- signin
+- signup
+- signout
+- request_profile_info
+- edit_user_profile_info
+- edit_user_account_info
+- edit_user_privacy_info
+- disable_user_account
+- delete_user_account
+- pin_channel_chat
+- clear_channel_chats
+- block_user
+- leave_channel
+- make_admin
+- remove_admin
+- add_member
+- remove_member
+- block_member
+- view_profile
+- edit_channel_profile_info
+- search
+- message
+- message_seen
+- message_delivered
+- reply_message
+- delete_message

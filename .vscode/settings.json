@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Python\\Python39\\python.exe",
+    "python.analysis.extraPaths": [
+        "./server",
+        "../audiowave/audiowave",
+        "../prmp_qt",
+        "../prmp_websockets/prmp_websockets",
+    ],
+}
